@@ -1,0 +1,44 @@
+.Big-ol-header {
+	background-color: DeepSkyBlue;
+	color: MidnightBlue;
+	font-size: 36px;
+	padding: 2px 2px;
+	margin: 2px 2px;
+	float: center;
+	font-family: "Comic Sans MS", sans-serif;
+	border: 3px solid orange;
+	text-align: center;
+	font-weight: bold;
+}
+
+.button-group button {
+	background-color: Beige;
+	border: 1px solid black;
+	color: black;
+	padding: 12px 24px;
+	float: left;
+	font-family: "Comic Sans MS", sans-serif;
+}
+
+.amenities-group {
+	color: tomato;
+	font-family: "Comic Sans MS", sans-serif;
+	width: 400px;
+}
+
+.whats-nearby{
+	color: Fuchsia;
+	font-family: "Comic Sans MS", sans-serif;
+	width: 400px;
+}
+
+body {
+	background-color: BlanchedAlmond;
+}
+
+h3{
+	font-weight: Bold;
+	font-family: "Comic Sans MS", sans-serif;
+	color: LightCoral;
+}
+
